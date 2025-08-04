@@ -20,23 +20,21 @@
 ### 📌 Languages & Runtime
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ⚙️ Tools & Environment
+### ⚙️ Frameworks & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### 🧪 Learning & Interest
-
-![Pintos](https://img.shields.io/badge/Pintos-OS-internal-lightgrey?style=flat-square)
-![Memory Management](https://img.shields.io/badge/Memory_Allocator-C_lang-green?style=flat-square)
-![Network Programming](https://img.shields.io/badge/Network-Proxy-blue?style=flat-square)
-![Analytics SDK](https://img.shields.io/badge/Tracking-SDK-yellow?style=flat-square)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -57,11 +55,11 @@
 
 ## 🧠 Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fharena)](https://solved.ac/profile/fharena)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=99yoonjoo)](https://solved.ac/profile/99yoonjoo)
 
 - ✅ 문제 풀이 수백 개 이상
 - ✅ solved.ac 기준 Class 분류별 정리
-- ✅ 정렬, 트리, 그래프, 그리디, 구현, DFS/BFS 등 다양하게 접근
+- ✅ 정렬, 트리, 그래프, 그리디, 구현, DFS/BFS 등 다양한 패턴 접근
 
 ---
 
