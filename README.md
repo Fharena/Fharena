@@ -13,9 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fharena">
-    <img src="https://komarev.com/ghpvc/?username=Fharena&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
   <a href="https://solved.ac/profile/99yoonjoo">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=99yoonjoo" />
   </a>
@@ -31,20 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fharena&theme=radical" width="32%" />
 </p>
 
----
 
-<h2 align="center">🧩 Featured Projects</h2>
-
-<p align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=malloc_lab" width="28%" />
-  <img src="https://via.placeholder.com/300x180.png?text=webproxy-lab" width="28%" />
-  <img src="https://via.placeholder.com/300x180.png?text=Pintos_project3" width="28%" />
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=KlickLab" width="28%" />
-  <img src="https://via.placeholder.com/300x180.png?text=rbtree_lab_docker" width="28%" />
-  <img src="https://via.placeholder.com/300x180.png?text=baekjoonsolvsj" width="28%" />
-</p>
 
 ---
 
