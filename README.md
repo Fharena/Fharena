@@ -1,79 +1,88 @@
-<h1 align="center">Hi, I'm Fharena 👋</h1>
+<h1 align="center">🚀 Fharena</h1>
 <p align="center">
-  Backend · System Programming · DevTools · Data Structure <br/>
-  꾸준히 실력을 쌓아가는 개발자입니다.
+  백엔드 · 시스템 프로그래밍 · 알고리즘 · 프론트엔드 SDK 개발까지<br/>
+  👨‍💻 문제 해결과 성능에 집중하는 개발자입니다.
 </p>
 
 <p align="center">
-  <a href="https://solved.ac/profile/99yoonjoo">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=99yoonjoo" alt="Solved.ac 프로필">
-  </a>
-  <br/>
   <a href="https://github.com/Fharena">
     <img src="https://komarev.com/ghpvc/?username=Fharena&label=Profile%20views&color=0e75b6&style=flat" alt="Fharena" />
   </a>
+  <a href="https://solved.ac/profile/99yoonjoo">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=99yoonjoo" alt="Solved.ac Badge" />
+  </a>
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🔍 자료구조와 시스템 내부 동작에 관심이 많습니다.
-- 💡 성능과 구조에 집중하며, 작은 부분도 원리부터 이해하려고 노력합니다.
-- 🛠️ 직접 만드는 것을 좋아해서 메모리 할당기, 프록시 서버, SDK 등을 구현해봤습니다.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 📌 Languages & Runtime
 
-**Tools & Platforms**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### ⚙️ Tools & Environment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 🧪 Learning & Interest
+
+![Pintos](https://img.shields.io/badge/Pintos-OS-internal-lightgrey?style=flat-square)
+![Memory Management](https://img.shields.io/badge/Memory_Allocator-C_lang-green?style=flat-square)
+![Network Programming](https://img.shields.io/badge/Network-Proxy-blue?style=flat-square)
+![Analytics SDK](https://img.shields.io/badge/Tracking-SDK-yellow?style=flat-square)
 
 ---
 
-## 📌 Representative Projects
+## 📂 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [`malloc_lab`](https://github.com/Fharena/malloc_lab) | next-fit 기반 메모리 할당기 (explicit free list, 성능 분석 포함) |
-| [`webproxy-lab`](https://github.com/Fharena/webproxy-lab) | C로 구현한 HTTP 프록시 서버 |
-| [`Pintos_project3`](https://github.com/Fharena/Pintos_project3) | OS 기반 가상 메모리 시스템 (page fault, mmap 등) |
-| [`KlickLab`](https://github.com/Fharena/KlickLab) | JavaScript 행동 추적 SDK. UMD + 이벤트 위임 기반 |
-| [`rbtree_lab_docker`](https://github.com/Fharena/rbtree_lab_docker) | Red-Black Tree 구현 및 도커 테스트 환경 구성 |
-| [`baekjoonsolvsj`](https://github.com/Fharena/baekjoonsolvsj) | 백준 문제풀이 (solved.ac 클래스 기반 분류) |
+| [`malloc_lab`](https://github.com/Fharena/malloc_lab) | next-fit 기반 메모리 할당기 구현. 성능 분석과 디버깅 포함 |
+| [`webproxy-lab`](https://github.com/Fharena/webproxy-lab) | C로 구현한 프록시 서버. 비동기 HTTP 처리 실습 |
+| [`Pintos_project3`](https://github.com/Fharena/Pintos_project3) | Pintos Project 3: 가상메모리, 페이지 폴트, mmap 등 |
+| [`Pintos_1_2_22.04`](https://github.com/Fharena/Pintos_1_2_22.04) | Pintos Project 1,2: threading, syscall 등 OS 내부 구조 |
+| [`rbtree_lab_docker`](https://github.com/Fharena/rbtree_lab_docker) | RB트리 삽입/삭제 직접 구현. 도커 환경 포함 |
+| [`Data-Structures`](https://github.com/Fharena/Data-Structures) | Stack, Queue, Tree 등 자료구조 직접 구현 (C) |
+| [`baekjoonsolvsj`](https://github.com/Fharena/baekjoonsolvsj) | Python으로 푼 백준 알고리즘 문제 모음 (solved.ac class 기반) |
+| [`KlickLab`](https://github.com/Fharena/KlickLab) | 웹 행동 로그 수집 SDK (UMD + DOM 이벤트 위임 + 커스텀 이벤트) |
+
+---
+
+## 🧠 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fharena)](https://solved.ac/profile/fharena)
+
+- ✅ 문제 풀이 수백 개 이상
+- ✅ solved.ac 기준 Class 분류별 정리
+- ✅ 정렬, 트리, 그래프, 그리디, 구현, DFS/BFS 등 다양하게 접근
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fharena&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fharena&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fharena&layout=compact&theme=tokyonight" width="48%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fharena&theme=default" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fharena&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fharena&theme=tokyonight" width="60%" />
 </p>
-
----
-
-## 🧠 Algorithms
-
-- 📘 [백준 문제풀이 저장소](https://github.com/Fharena/baekjoonsolvsj)
-- 🏅 [Solved.ac 랭킹 프로필](https://solved.ac/profile/fharena)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: `your@email.com`
-- 📝 Notion CV: [notion 링크](https://your-notion-site)
-- 📓 Dev Blog (선택): [블로그 주소](https://your-blog)
+| 📄 Resume / Notion | https://your-notion-link |
+|--------------------|--------------------------|
+| ✉️ Email | your@email.com |
+| 🔗 Blog (옵션) | https://your-blog.com |
 
+---
+
+> 꾸준히, 그리고 원리부터. 작은 실습도 깊이 파고드는 습관을 중요하게 생각합니다.
