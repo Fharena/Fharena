@@ -3,10 +3,10 @@
   Backend · System Programming · DevTools · Data Structure <br/>
   꾸준히 실력을 쌓아가는 개발자입니다.
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=99yoonjoo)](https://solved.ac/profile/99yoonjoo)
+
 <p align="center">
   <a href="https://solved.ac/profile/99yoonjoo">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=fharena" alt="Solved.ac 프로필">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=99yoonjoo" alt="Solved.ac 프로필">
   </a>
   <br/>
   <a href="https://github.com/Fharena">
